@@ -3,10 +3,6 @@ owner: desisn # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: desisn.de
     url: https://desisn.de
   - name: dico-mediadesign.de
@@ -15,6 +11,10 @@ sites:
     url: https://seanlina.com
   - name: bchirg.de
     url: https://bchirg.de
+  - name: test4.app
+    url: https://test4.app
+  - name: hannovers-steuerberater.de
+    url: https://hannovers-steuerberater.de
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
