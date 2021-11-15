@@ -9,6 +9,10 @@ sites:
     url: https://en.wikipedia.org
   - name: desisn.de
     url: https://desisn.de
+  - name: dico-mediadesign.de
+    url: https://dico-mediadesign.de
+  - name: bchirg.de
+    url: https://bchirg.de
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
