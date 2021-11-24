@@ -94,9 +94,9 @@
     "url": "https://hannovers-steuerberater.de",
     "icon": "https://favicons.githubusercontent.com/hannovers-steuerberater.de",
     "slug": "hannovers-steuerberater-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 1017,
     "timeMonth": 966,
     "timeYear": 966,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-24": 0
+    }
   },
   {
     "name": "heise.de",
