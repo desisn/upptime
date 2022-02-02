@@ -4,19 +4,19 @@
     "url": "https://desisn.de",
     "icon": "https://favicons.githubusercontent.com/desisn.de",
     "slug": "desisn-de",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1095,
     "timeDay": 801,
     "timeWeek": 764,
     "timeMonth": 1365,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2022-02-02": 14
+      "2022-02-02": 0
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://tips4.app",
     "icon": "https://favicons.githubusercontent.com/tips4.app",
     "slug": "tips4-app",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1227,
     "timeDay": 1273,
     "timeWeek": 1242,
     "timeMonth": 1252,
     "timeYear": 1227,
     "dailyMinutesDown": {
-      "2022-02-02": 13
+      "2022-02-02": 0
     }
   },
   {
