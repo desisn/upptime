@@ -6,18 +6,16 @@
     "slug": "desisn-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1159,
-    "timeDay": 627,
-    "timeWeek": 729,
-    "timeMonth": 719,
-    "timeYear": 1159,
-    "dailyMinutesDown": {
-      "2022-06-21": 12
-    }
+    "time": 1158,
+    "timeDay": 745,
+    "timeWeek": 757,
+    "timeMonth": 716,
+    "timeYear": 1158,
+    "dailyMinutesDown": {}
   },
   {
     "name": "dico-mediadesign.de",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1931,
-    "timeDay": 1246,
-    "timeWeek": 1832,
-    "timeMonth": 1809,
-    "timeYear": 1931,
+    "time": 1933,
+    "timeDay": 2591,
+    "timeWeek": 2026,
+    "timeMonth": 1819,
+    "timeYear": 1933,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1356,
-    "timeDay": 1036,
-    "timeWeek": 1369,
-    "timeMonth": 1323,
-    "timeYear": 1356,
+    "time": 1359,
+    "timeDay": 2206,
+    "timeWeek": 1517,
+    "timeMonth": 1335,
+    "timeYear": 1359,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 876,
-    "timeDay": 711,
-    "timeWeek": 896,
-    "timeMonth": 873,
+    "timeDay": 1016,
+    "timeWeek": 961,
+    "timeMonth": 868,
     "timeYear": 876,
     "dailyMinutesDown": {
       "2021-12-30": 84
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1248,
-    "timeDay": 885,
-    "timeWeek": 1200,
-    "timeMonth": 1177,
-    "timeYear": 1248,
+    "time": 1249,
+    "timeDay": 1315,
+    "timeWeek": 1267,
+    "timeMonth": 1171,
+    "timeYear": 1249,
     "dailyMinutesDown": {}
   },
   {
@@ -105,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1003,
-    "timeDay": 831,
-    "timeWeek": 1027,
-    "timeMonth": 1018,
+    "timeDay": 1099,
+    "timeWeek": 1075,
+    "timeMonth": 1016,
     "timeYear": 1003,
     "dailyMinutesDown": {
       "2021-11-24": 87
@@ -124,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 3325,
-    "timeDay": 2208,
-    "timeWeek": 3285,
-    "timeMonth": 3232,
-    "timeYear": 3325,
+    "time": 3329,
+    "timeDay": 4229,
+    "timeWeek": 3560,
+    "timeMonth": 3245,
+    "timeYear": 3329,
     "dailyMinutesDown": {
       "2022-05-27": 26,
       "2022-05-07": 48
