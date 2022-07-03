@@ -22,10 +22,10 @@
     "url": "https://dico-mediadesign.de",
     "icon": "https://favicons.githubusercontent.com/dico-mediadesign.de",
     "slug": "dico-mediadesign-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1925,
@@ -33,16 +33,18 @@
     "timeWeek": 1688,
     "timeMonth": 1770,
     "timeYear": 1925,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-03": 1
+    }
   },
   {
     "name": "seanlina.com",
     "url": "https://seanlina.com",
     "icon": "https://favicons.githubusercontent.com/seanlina.com",
     "slug": "seanlina-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 1388,
     "timeMonth": 1362,
     "timeYear": 1361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "bchirg.de",
