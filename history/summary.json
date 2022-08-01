@@ -4,10 +4,10 @@
     "url": "https://desisn.de",
     "icon": "https://favicons.githubusercontent.com/desisn.de",
     "slug": "desisn-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1098,
@@ -15,7 +15,9 @@
     "timeWeek": 702,
     "timeMonth": 747,
     "timeYear": 1098,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-01": 1
+    }
   },
   {
     "name": "dico-mediadesign.de",
@@ -82,9 +84,9 @@
     "url": "https://tips4.app",
     "icon": "https://favicons.githubusercontent.com/tips4.app",
     "slug": "tips4-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +95,9 @@
     "timeWeek": 988,
     "timeMonth": 1136,
     "timeYear": 1231,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-01": 0
+    }
   },
   {
     "name": "hannovers-steuerberater.de",
