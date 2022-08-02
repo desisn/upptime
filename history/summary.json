@@ -4,9 +4,9 @@
     "url": "https://desisn.de",
     "icon": "https://favicons.githubusercontent.com/desisn.de",
     "slug": "desisn-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "92.33%",
+    "uptimeDay": "92.29%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 743,
     "timeYear": 1097,
     "dailyMinutesDown": {
+      "2022-08-02": 1,
       "2022-08-01": 110
     }
   },
@@ -84,9 +85,9 @@
     "url": "https://tips4.app",
     "icon": "https://favicons.githubusercontent.com/tips4.app",
     "slug": "tips4-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "92.35%",
+    "uptimeDay": "92.34%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
@@ -96,6 +97,7 @@
     "timeMonth": 1141,
     "timeYear": 1232,
     "dailyMinutesDown": {
+      "2022-08-02": 0,
       "2022-08-01": 110
     }
   },
