@@ -109,19 +109,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hannovers-steuerberater.de.ico",
     "slug": "hannovers-steuerberater-de",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1015,
     "timeDay": 960,
     "timeWeek": 992,
     "timeMonth": 991,
     "timeYear": 1022,
-    "dailyMinutesDown": {
-      "2022-12-31": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "heise.de",
