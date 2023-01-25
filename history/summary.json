@@ -27,9 +27,9 @@
     "slug": "dico-mediadesign-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1623,
     "timeDay": 1515,
@@ -37,7 +37,7 @@
     "timeMonth": 1311,
     "timeYear": 1530,
     "dailyMinutesDown": {
-      "2023-01-25": 3,
+      "2023-01-25": 16,
       "2022-11-24": 28,
       "2022-07-03": 48
     }
@@ -48,10 +48,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 1272,
     "timeDay": 1123,
@@ -59,7 +59,7 @@
     "timeMonth": 1233,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2023-01-25": 16,
+      "2023-01-25": 29,
       "2022-11-24": 28,
       "2022-07-03": 47
     }
@@ -69,10 +69,10 @@
     "url": "https://bchirg.de",
     "icon": "https://icons.duckduckgo.com/ip3/bchirg.de.ico",
     "slug": "bchirg-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 849,
@@ -81,6 +81,7 @@
     "timeMonth": 780,
     "timeYear": 847,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2022-08-10": 19
     }
   },
@@ -129,10 +130,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/heise.de.ico",
     "slug": "heise-de",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 3268,
     "timeDay": 3274,
@@ -140,7 +141,7 @@
     "timeMonth": 2955,
     "timeYear": 3269,
     "dailyMinutesDown": {
-      "2023-01-25": 14,
+      "2023-01-25": 27,
       "2022-05-27": 26,
       "2022-05-07": 48
     }
