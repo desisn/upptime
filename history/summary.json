@@ -25,11 +25,11 @@
     "url": "https://dico-mediadesign.de",
     "icon": "https://icons.duckduckgo.com/ip3/dico-mediadesign.de.ico",
     "slug": "dico-mediadesign-de",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "93.90%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
     "time": 1662,
     "timeDay": 7469,
@@ -37,7 +37,7 @@
     "timeMonth": 1864,
     "timeYear": 1578,
     "dailyMinutesDown": {
-      "2023-01-25": 88,
+      "2023-01-25": 74,
       "2022-11-24": 28,
       "2022-07-03": 48
     }
@@ -47,11 +47,11 @@
     "url": "https://seanlina.com",
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.80%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
     "time": 1316,
     "timeDay": 7897,
@@ -59,7 +59,7 @@
     "timeMonth": 1842,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2023-01-25": 87,
+      "2023-01-25": 73,
       "2022-11-24": 28,
       "2022-07-03": 47
     }
