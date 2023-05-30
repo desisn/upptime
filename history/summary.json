@@ -118,18 +118,19 @@
     "url": "https://hannovers-steuerberater.de",
     "icon": "https://icons.duckduckgo.com/ip3/hannovers-steuerberater.de.ico",
     "slug": "hannovers-steuerberater-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1022,
+    "time": 1021,
     "timeDay": 902,
     "timeWeek": 945,
     "timeMonth": 1010,
     "timeYear": 1022,
     "dailyMinutesDown": {
+      "2023-05-30": 0,
       "2023-01-25": 92
     }
   },
