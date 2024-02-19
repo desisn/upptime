@@ -1,7 +1,7 @@
 url: https://hannovers-steuerberater.de
-status: up
-code: 200
-responseTime: 1395
-lastUpdated: 2024-02-18T23:08:45.813Z
+status: down
+code: 503
+responseTime: 892
+lastUpdated: 2024-02-19T14:50:08.394Z
 startTime: 2021-11-15T19:25:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
