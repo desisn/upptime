@@ -30,7 +30,7 @@
     "uptimeYear": "99.92%",
     "time": 1842,
     "timeDay": 803,
-    "timeWeek": 849,
+    "timeWeek": 840,
     "timeMonth": 992,
     "timeYear": 2081,
     "dailyMinutesDown": {
@@ -63,7 +63,7 @@
     "uptimeYear": "99.90%",
     "time": 3376,
     "timeDay": 5121,
-    "timeWeek": 5687,
+    "timeWeek": 5386,
     "timeMonth": 6261,
     "timeYear": 4285,
     "dailyMinutesDown": {
@@ -140,7 +140,7 @@
     "uptimeYear": "98.39%",
     "time": 912,
     "timeDay": 720,
-    "timeWeek": 711,
+    "timeWeek": 696,
     "timeMonth": 811,
     "timeYear": 885,
     "dailyMinutesDown": {
@@ -173,9 +173,9 @@
     "url": "https://heise.de",
     "icon": "https://icons.duckduckgo.com/ip3/heise.de.ico",
     "slug": "heise-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -185,6 +185,7 @@
     "timeMonth": 3024,
     "timeYear": 2981,
     "dailyMinutesDown": {
+      "2025-03-19": 0,
       "2024-04-19": 61
     }
   }
