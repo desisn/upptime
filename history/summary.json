@@ -4,18 +4,19 @@
     "url": "https://desisn.de",
     "icon": "https://icons.duckduckgo.com/ip3/desisn.de.ico",
     "slug": "desisn-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.21%",
-    "time": 899,
+    "time": 900,
     "timeDay": 985,
     "timeWeek": 856,
     "timeMonth": 814,
     "timeYear": 924,
     "dailyMinutesDown": {
+      "2025-12-20": 0,
       "2025-09-29": 471,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -187,9 +188,9 @@
     "url": "https://tips4.app",
     "icon": "https://icons.duckduckgo.com/ip3/tips4.app.ico",
     "slug": "tips4-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -198,7 +199,9 @@
     "timeWeek": 761,
     "timeMonth": 731,
     "timeYear": 716,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-20": 0
+    }
   },
   {
     "name": "hannovers-steuerberater.de",
