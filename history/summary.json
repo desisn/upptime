@@ -4,10 +4,10 @@
     "url": "https://desisn.de",
     "icon": "https://icons.duckduckgo.com/ip3/desisn.de.ico",
     "slug": "desisn-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.20%",
     "time": 907,
@@ -16,6 +16,7 @@
     "timeMonth": 834,
     "timeYear": 923,
     "dailyMinutesDown": {
+      "2026-01-30": 1,
       "2025-12-20": 34,
       "2025-09-29": 471,
       "2025-09-28": 1440,
@@ -202,9 +203,9 @@
     "url": "https://tips4.app",
     "icon": "https://icons.duckduckgo.com/ip3/tips4.app.ico",
     "slug": "tips4-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -214,6 +215,7 @@
     "timeMonth": 726,
     "timeYear": 726,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-12-20": 34
     }
   },
