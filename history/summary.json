@@ -291,18 +291,19 @@
     "url": "https://heise.de",
     "icon": "https://icons.duckduckgo.com/ip3/heise.de.ico",
     "slug": "heise-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3149,
+    "time": 3151,
     "timeDay": 4157,
     "timeWeek": 2852,
     "timeMonth": 3039,
     "timeYear": 3205,
     "dailyMinutesDown": {
+      "2026-03-10": 0,
       "2025-09-09": 19,
       "2025-07-21": 36
     }
