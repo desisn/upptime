@@ -49,13 +49,13 @@
     "url": "https://dico-mediadesign.de",
     "icon": "https://icons.duckduckgo.com/ip3/dico-mediadesign.de.ico",
     "slug": "dico-mediadesign-de",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "95.73%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "95.71%",
     "uptimeYear": "99.39%",
-    "time": 1122,
+    "time": 1123,
     "timeDay": 1258,
     "timeWeek": 1346,
     "timeMonth": 1260,
@@ -113,7 +113,8 @@
       "2026-05-21": 45,
       "2026-05-22": 145,
       "2026-05-24": 47,
-      "2026-05-28": 86
+      "2026-05-28": 86,
+      "2026-06-01": 10
     }
   },
   {
@@ -121,13 +122,13 @@
     "url": "https://seanlina.com",
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "96.24%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "96.22%",
     "uptimeYear": "99.41%",
-    "time": 6610,
+    "time": 6605,
     "timeDay": 5392,
     "timeWeek": 7355,
     "timeMonth": 6929,
@@ -183,7 +184,8 @@
       "2026-05-21": 40,
       "2026-05-22": 136,
       "2026-05-24": 42,
-      "2026-05-28": 76
+      "2026-05-28": 76,
+      "2026-06-01": 5
     }
   },
   {
@@ -243,14 +245,14 @@
     "url": "https://hannovers-steuerberater.de",
     "icon": "https://icons.duckduckgo.com/ip3/hannovers-steuerberater.de.ico",
     "slug": "hannovers-steuerberater-de",
-    "status": "up",
+    "status": "down",
     "uptime": "98.47%",
-    "uptimeDay": "94.01%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "96.05%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "96.04%",
     "uptimeYear": "94.82%",
     "time": 880,
-    "timeDay": 935,
+    "timeDay": 864,
     "timeWeek": 901,
     "timeMonth": 863,
     "timeYear": 887,
@@ -320,7 +322,8 @@
       "2026-05-22": 126,
       "2026-05-24": 38,
       "2026-05-28": 53,
-      "2026-05-31": 86
+      "2026-05-31": 86,
+      "2026-06-01": 0
     }
   },
   {
