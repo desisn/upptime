@@ -49,16 +49,16 @@
     "url": "https://dico-mediadesign.de",
     "icon": "https://icons.duckduckgo.com/ip3/dico-mediadesign.de.ico",
     "slug": "dico-mediadesign-de",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "95.71%",
-    "uptimeYear": "99.39%",
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "92.71%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "95.49%",
+    "uptimeYear": "99.37%",
     "time": 1123,
-    "timeDay": 1258,
-    "timeWeek": 1346,
-    "timeMonth": 1260,
+    "timeDay": 1217,
+    "timeWeek": 1327,
+    "timeMonth": 1258,
     "timeYear": 1142,
     "dailyMinutesDown": {
       "2025-06-09": 38,
@@ -114,7 +114,7 @@
       "2026-05-22": 145,
       "2026-05-24": 47,
       "2026-05-28": 86,
-      "2026-06-01": 10
+      "2026-06-01": 105
     }
   },
   {
@@ -122,17 +122,17 @@
     "url": "https://seanlina.com",
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "96.22%",
-    "uptimeYear": "99.41%",
-    "time": 6605,
-    "timeDay": 5392,
-    "timeWeek": 7355,
-    "timeMonth": 6929,
-    "timeYear": 6664,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "96.01%",
+    "uptimeYear": "99.39%",
+    "time": 6617,
+    "timeDay": 8753,
+    "timeWeek": 7883,
+    "timeMonth": 7035,
+    "timeYear": 6676,
     "dailyMinutesDown": {
       "2025-06-09": 37,
       "2025-06-12": 23,
@@ -185,7 +185,7 @@
       "2026-05-22": 136,
       "2026-05-24": 42,
       "2026-05-28": 76,
-      "2026-06-01": 5
+      "2026-06-01": 100
     }
   },
   {
@@ -245,15 +245,15 @@
     "url": "https://hannovers-steuerberater.de",
     "icon": "https://icons.duckduckgo.com/ip3/hannovers-steuerberater.de.ico",
     "slug": "hannovers-steuerberater-de",
-    "status": "down",
+    "status": "up",
     "uptime": "98.47%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "96.04%",
-    "uptimeYear": "94.82%",
-    "time": 880,
-    "timeDay": 864,
-    "timeWeek": 901,
+    "uptimeDay": "93.36%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "95.83%",
+    "uptimeYear": "94.80%",
+    "time": 881,
+    "timeDay": 854,
+    "timeWeek": 896,
     "timeMonth": 863,
     "timeYear": 887,
     "dailyMinutesDown": {
@@ -323,7 +323,7 @@
       "2026-05-24": 38,
       "2026-05-28": 53,
       "2026-05-31": 86,
-      "2026-06-01": 0
+      "2026-06-01": 96
     }
   },
   {
