@@ -49,16 +49,16 @@
     "url": "https://dico-mediadesign.de",
     "icon": "https://icons.duckduckgo.com/ip3/dico-mediadesign.de.ico",
     "slug": "dico-mediadesign-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "94.86%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "94.85%",
     "uptimeYear": "99.26%",
     "time": 1134,
-    "timeDay": 1196,
-    "timeWeek": 1277,
-    "timeMonth": 1274,
+    "timeDay": 1160,
+    "timeWeek": 1264,
+    "timeMonth": 1271,
     "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-06-21": 40,
@@ -117,7 +117,7 @@
       "2026-06-05": 74,
       "2026-06-06": 206,
       "2026-06-07": 145,
-      "2026-06-13": 35
+      "2026-06-13": 41
     }
   },
   {
@@ -125,17 +125,17 @@
     "url": "https://seanlina.com",
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "95.22%",
-    "uptimeYear": "99.30%",
-    "time": 6635,
-    "timeDay": 0,
-    "timeWeek": 5951,
-    "timeMonth": 7016,
-    "timeYear": 6679,
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "99.29%",
+    "time": 6620,
+    "timeDay": 5208,
+    "timeWeek": 5884,
+    "timeMonth": 6983,
+    "timeYear": 6676,
     "dailyMinutesDown": {
       "2025-06-21": 39,
       "2025-06-23": 28,
@@ -191,7 +191,7 @@
       "2026-06-05": 69,
       "2026-06-06": 179,
       "2026-06-07": 133,
-      "2026-06-13": 5
+      "2026-06-13": 12
     }
   },
   {
@@ -251,16 +251,16 @@
     "url": "https://hannovers-steuerberater.de",
     "icon": "https://icons.duckduckgo.com/ip3/hannovers-steuerberater.de.ico",
     "slug": "hannovers-steuerberater-de",
-    "status": "down",
+    "status": "up",
     "uptime": "98.50%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "95.41%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "95.39%",
     "uptimeYear": "94.72%",
     "time": 882,
-    "timeDay": 691,
-    "timeWeek": 851,
-    "timeMonth": 863,
+    "timeDay": 755,
+    "timeWeek": 849,
+    "timeMonth": 862,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2025-06-21": 38,
@@ -332,7 +332,7 @@
       "2026-06-05": 65,
       "2026-06-06": 121,
       "2026-06-07": 118,
-      "2026-06-13": 19
+      "2026-06-13": 26
     }
   },
   {
