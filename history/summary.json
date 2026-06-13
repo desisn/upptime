@@ -49,17 +49,17 @@
     "url": "https://dico-mediadesign.de",
     "icon": "https://icons.duckduckgo.com/ip3/dico-mediadesign.de.ico",
     "slug": "dico-mediadesign-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "94.93%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "94.88%",
     "uptimeYear": "99.26%",
     "time": 1133,
-    "timeDay": 1577,
-    "timeWeek": 1265,
-    "timeMonth": 1274,
-    "timeYear": 1154,
+    "timeDay": 1387,
+    "timeWeek": 1259,
+    "timeMonth": 1273,
+    "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-06-21": 40,
       "2025-06-23": 28,
@@ -117,7 +117,7 @@
       "2026-06-05": 74,
       "2026-06-06": 206,
       "2026-06-07": 145,
-      "2026-06-13": 6
+      "2026-06-13": 25
     }
   },
   {
@@ -135,7 +135,7 @@
     "timeDay": 9839,
     "timeWeek": 5867,
     "timeMonth": 6989,
-    "timeYear": 6676,
+    "timeYear": 6679,
     "dailyMinutesDown": {
       "2025-06-21": 39,
       "2025-06-23": 28,
@@ -208,7 +208,7 @@
     "timeDay": 1792,
     "timeWeek": 1539,
     "timeMonth": 1689,
-    "timeYear": 1301,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2025-08-27": 19,
       "2025-10-19": 21,
@@ -250,16 +250,16 @@
     "url": "https://hannovers-steuerberater.de",
     "icon": "https://icons.duckduckgo.com/ip3/hannovers-steuerberater.de.ico",
     "slug": "hannovers-steuerberater-de",
-    "status": "down",
+    "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "95.45%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "95.41%",
     "uptimeYear": "94.72%",
-    "time": 882,
-    "timeDay": 978,
-    "timeWeek": 851,
-    "timeMonth": 865,
+    "time": 881,
+    "timeDay": 835,
+    "timeWeek": 838,
+    "timeMonth": 862,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2025-06-21": 38,
@@ -331,7 +331,7 @@
       "2026-06-05": 65,
       "2026-06-06": 121,
       "2026-06-07": 118,
-      "2026-06-13": 0
+      "2026-06-13": 19
     }
   },
   {
