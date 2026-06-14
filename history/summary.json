@@ -49,15 +49,15 @@
     "url": "https://dico-mediadesign.de",
     "icon": "https://icons.duckduckgo.com/ip3/dico-mediadesign.de.ico",
     "slug": "dico-mediadesign-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "94.85%",
+    "uptimeDay": "96.46%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "94.82%",
     "uptimeYear": "99.26%",
     "time": 1134,
     "timeDay": 1160,
-    "timeWeek": 1251,
+    "timeWeek": 1233,
     "timeMonth": 1271,
     "timeYear": 1155,
     "dailyMinutesDown": {
@@ -117,7 +117,8 @@
       "2026-06-05": 74,
       "2026-06-06": 206,
       "2026-06-07": 145,
-      "2026-06-13": 41
+      "2026-06-13": 41,
+      "2026-06-14": 10
     }
   },
   {
@@ -125,15 +126,15 @@
     "url": "https://seanlina.com",
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "95.24%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "95.22%",
     "uptimeYear": "99.30%",
-    "time": 6620,
+    "time": 6622,
     "timeDay": 5208,
-    "timeWeek": 5884,
+    "timeWeek": 5963,
     "timeMonth": 6983,
     "timeYear": 6676,
     "dailyMinutesDown": {
@@ -190,7 +191,8 @@
       "2026-06-03": 187,
       "2026-06-05": 69,
       "2026-06-06": 179,
-      "2026-06-07": 133
+      "2026-06-07": 133,
+      "2026-06-14": 5
     }
   },
   {
@@ -250,15 +252,15 @@
     "url": "https://hannovers-steuerberater.de",
     "icon": "https://icons.duckduckgo.com/ip3/hannovers-steuerberater.de.ico",
     "slug": "hannovers-steuerberater-de",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "98.77%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "95.41%",
     "uptimeYear": "94.72%",
     "time": 882,
     "timeDay": 755,
-    "timeWeek": 837,
+    "timeWeek": 823,
     "timeMonth": 862,
     "timeYear": 889,
     "dailyMinutesDown": {
@@ -331,7 +333,8 @@
       "2026-06-05": 65,
       "2026-06-06": 121,
       "2026-06-07": 118,
-      "2026-06-13": 19
+      "2026-06-13": 19,
+      "2026-06-14": 0
     }
   },
   {
