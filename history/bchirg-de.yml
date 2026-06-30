@@ -1,7 +1,7 @@
 url: https://bchirg.de
-status: up
-code: 200
-responseTime: 12787
-lastUpdated: 2026-06-29T23:21:27.391Z
+status: down
+code: 500
+responseTime: 5927
+lastUpdated: 2026-06-30T09:20:35.624Z
 startTime: 2021-11-15T17:47:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
