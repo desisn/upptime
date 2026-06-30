@@ -207,24 +207,25 @@
     "url": "https://bchirg.de",
     "icon": "https://icons.duckduckgo.com/ip3/bchirg.de.ico",
     "slug": "bchirg-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1261,
-    "timeDay": 12787,
-    "timeWeek": 3070,
-    "timeMonth": 1893,
-    "timeYear": 1361,
+    "time": 1271,
+    "timeDay": 9357,
+    "timeWeek": 3427,
+    "timeMonth": 2019,
+    "timeYear": 1373,
     "dailyMinutesDown": {
       "2025-08-27": 19,
       "2025-10-19": 21,
       "2026-01-18": 72,
       "2026-01-19": 69,
       "2026-03-20": 19,
-      "2026-05-05": 25
+      "2026-05-05": 25,
+      "2026-06-30": 0
     }
   },
   {
