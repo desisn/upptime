@@ -49,11 +49,11 @@
     "url": "https://dico-mediadesign.de",
     "icon": "https://icons.duckduckgo.com/ip3/dico-mediadesign.de.ico",
     "slug": "dico-mediadesign-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "99.20%",
     "time": 1155,
     "timeDay": 1554,
@@ -121,7 +121,8 @@
       "2026-06-23": 39,
       "2026-06-24": 29,
       "2026-06-27": 24,
-      "2026-06-28": 44
+      "2026-06-28": 44,
+      "2026-07-09": 10
     }
   },
   {
@@ -129,13 +130,13 @@
     "url": "https://seanlina.com",
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "99.26%",
-    "time": 6465,
+    "time": 6467,
     "timeDay": 1955,
     "timeWeek": 2961,
     "timeMonth": 3516,
@@ -197,7 +198,8 @@
       "2026-06-23": 35,
       "2026-06-24": 24,
       "2026-06-27": 19,
-      "2026-06-28": 40
+      "2026-06-28": 40,
+      "2026-07-09": 5
     }
   },
   {
@@ -258,13 +260,13 @@
     "url": "https://hannovers-steuerberater.de",
     "icon": "https://icons.duckduckgo.com/ip3/hannovers-steuerberater.de.ico",
     "slug": "hannovers-steuerberater-de",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "94.69%",
-    "time": 889,
+    "time": 888,
     "timeDay": 1122,
     "timeWeek": 975,
     "timeMonth": 880,
@@ -342,7 +344,8 @@
       "2026-06-20": 21,
       "2026-06-23": 30,
       "2026-06-24": 19,
-      "2026-06-28": 35
+      "2026-06-28": 35,
+      "2026-07-09": 0
     }
   },
   {
