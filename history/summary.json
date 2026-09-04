@@ -16,7 +16,6 @@
     "timeMonth": 890,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2025-09-04": 650,
       "2025-09-06": 1292,
       "2025-09-05": 1296,
       "2025-09-12": 1339,
@@ -55,8 +54,8 @@
     "time": 1183,
     "timeDay": 2294,
     "timeWeek": 1330,
-    "timeMonth": 1316,
-    "timeYear": 1210,
+    "timeMonth": 1323,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2025-09-17": 18,
       "2025-09-19": 26,
@@ -139,17 +138,17 @@
     "url": "https://seanlina.com",
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.17%",
-    "time": 6109,
-    "timeDay": 1420,
-    "timeWeek": 1968,
-    "timeMonth": 3748,
-    "timeYear": 6002,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.15%",
+    "time": 6093,
+    "timeDay": 1385,
+    "timeWeek": 1891,
+    "timeMonth": 3624,
+    "timeYear": 5987,
     "dailyMinutesDown": {
       "2025-09-17": 18,
       "2025-09-19": 25,
@@ -215,7 +214,8 @@
       "2026-08-10": 84,
       "2026-08-24": 25,
       "2026-08-23": 2,
-      "2026-09-03": 0
+      "2026-09-04": 19,
+      "2026-09-03": 84
     }
   },
   {
@@ -232,8 +232,8 @@
     "time": 1519,
     "timeDay": 1949,
     "timeWeek": 4200,
-    "timeMonth": 3155,
-    "timeYear": 1701,
+    "timeMonth": 3190,
+    "timeYear": 1703,
     "dailyMinutesDown": {
       "2025-10-19": 21,
       "2026-01-18": 72,
@@ -257,8 +257,8 @@
     "time": 756,
     "timeDay": 601,
     "timeWeek": 669,
-    "timeMonth": 706,
-    "timeYear": 767,
+    "timeMonth": 708,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2025-12-20": 34,
       "2026-01-30": 57,
@@ -284,8 +284,8 @@
     "time": 890,
     "timeDay": 818,
     "timeWeek": 866,
-    "timeMonth": 884,
-    "timeYear": 897,
+    "timeMonth": 888,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2025-09-17": 18,
       "2025-09-19": 25,
@@ -365,8 +365,8 @@
     "time": 3110,
     "timeDay": 2558,
     "timeWeek": 3124,
-    "timeMonth": 2922,
-    "timeYear": 3057,
+    "timeMonth": 2942,
+    "timeYear": 3058,
     "dailyMinutesDown": {
       "2025-09-09": 19,
       "2026-03-10": 23
