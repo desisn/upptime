@@ -121,9 +121,9 @@
     "url": "https://seanlina.com",
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.09%",
@@ -196,7 +196,8 @@
       "2026-09-04": 19,
       "2026-09-03": 84,
       "2026-09-09": 116,
-      "2026-09-24": 282
+      "2026-09-24": 282,
+      "2026-10-11": 0
     }
   },
   {
