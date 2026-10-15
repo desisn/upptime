@@ -123,9 +123,9 @@
     "slug": "seanlina-com",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "65.66%",
-    "uptimeMonth": "91.45%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "65.57%",
+    "uptimeMonth": "91.43%",
     "uptimeYear": "98.43%",
     "time": 5783,
     "timeDay": 3586,
@@ -200,7 +200,7 @@
       "2026-10-13": 1375,
       "2026-10-12": 1440,
       "2026-10-11": 647,
-      "2026-10-15": 0
+      "2026-10-15": 9
     }
   },
   {
