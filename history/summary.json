@@ -121,17 +121,17 @@
     "url": "https://seanlina.com",
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "92.11%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "90.57%",
-    "uptimeYear": "98.31%",
-    "time": 6091,
-    "timeDay": 0,
-    "timeWeek": 21854,
-    "timeMonth": 9651,
-    "timeYear": 5861,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "83.38%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "90.28%",
+    "uptimeYear": "98.28%",
+    "time": 6165,
+    "timeDay": 46995,
+    "timeWeek": 25446,
+    "timeMonth": 10818,
+    "timeYear": 5952,
     "dailyMinutesDown": {
       "2025-11-12": 44,
       "2025-11-15": 22,
@@ -201,7 +201,7 @@
       "2026-10-11": 647,
       "2026-10-15": 301,
       "2026-10-18": 256,
-      "2026-10-26": 114
+      "2026-10-26": 239
     }
   },
   {
