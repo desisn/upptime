@@ -33,12 +33,12 @@
     "status": "up",
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.44%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "98.21%",
     "time": 1200,
     "timeDay": 1398,
-    "timeWeek": 1349,
+    "timeWeek": 1340,
     "timeMonth": 1282,
     "timeYear": 1240,
     "dailyMinutesDown": {
@@ -121,17 +121,17 @@
     "url": "https://seanlina.com",
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.46%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "90.83%",
     "uptimeYear": "98.33%",
-    "time": 6094,
+    "time": 6095,
     "timeDay": 37779,
-    "timeWeek": 25536,
+    "timeWeek": 26510,
     "timeMonth": 9409,
-    "timeYear": 5850,
+    "timeYear": 5861,
     "dailyMinutesDown": {
       "2025-11-12": 44,
       "2025-11-15": 22,
@@ -200,7 +200,8 @@
       "2026-10-12": 1440,
       "2026-10-11": 647,
       "2026-10-15": 301,
-      "2026-10-18": 256
+      "2026-10-18": 256,
+      "2026-10-26": 0
     }
   },
   {
@@ -218,7 +219,7 @@
     "timeDay": 1869,
     "timeWeek": 3816,
     "timeMonth": 2325,
-    "timeYear": 1917,
+    "timeYear": 1919,
     "dailyMinutesDown": {
       "2026-01-18": 72,
       "2026-01-19": 69,
@@ -262,12 +263,12 @@
     "status": "up",
     "uptime": "98.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.51%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.11%",
     "time": 892,
     "timeDay": 1050,
-    "timeWeek": 996,
+    "timeWeek": 995,
     "timeMonth": 924,
     "timeYear": 901,
     "dailyMinutesDown": {
@@ -348,7 +349,7 @@
     "timeDay": 3061,
     "timeWeek": 3207,
     "timeMonth": 2966,
-    "timeYear": 3028,
+    "timeYear": 3026,
     "dailyMinutesDown": {
       "2026-03-10": 23
     }
