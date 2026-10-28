@@ -30,11 +30,11 @@
     "url": "https://dico-mediadesign.de",
     "icon": "https://icons.duckduckgo.com/ip3/dico-mediadesign.de.ico",
     "slug": "dico-mediadesign-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.39%",
     "uptimeYear": "98.21%",
     "time": 1202,
     "timeDay": 1526,
@@ -113,7 +113,8 @@
       "2026-09-03": 148,
       "2026-09-09": 120,
       "2026-09-24": 287,
-      "2026-10-18": 258
+      "2026-10-18": 258,
+      "2026-10-28": 10
     }
   },
   {
@@ -121,13 +122,13 @@
     "url": "https://seanlina.com",
     "icon": "https://icons.duckduckgo.com/ip3/seanlina.com.ico",
     "slug": "seanlina-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "90.28%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "97.58%",
+    "uptimeMonth": "90.27%",
     "uptimeYear": "98.28%",
-    "time": 6210,
+    "time": 6213,
     "timeDay": 11761,
     "timeWeek": 23146,
     "timeMonth": 11739,
@@ -201,7 +202,8 @@
       "2026-10-11": 647,
       "2026-10-15": 301,
       "2026-10-18": 256,
-      "2026-10-26": 239
+      "2026-10-26": 239,
+      "2026-10-28": 5
     }
   },
   {
@@ -260,9 +262,9 @@
     "url": "https://hannovers-steuerberater.de",
     "icon": "https://icons.duckduckgo.com/ip3/hannovers-steuerberater.de.ico",
     "slug": "hannovers-steuerberater-de",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.11%",
@@ -331,7 +333,8 @@
       "2026-08-24": 22,
       "2026-09-09": 111,
       "2026-09-24": 277,
-      "2026-10-18": 251
+      "2026-10-18": 251,
+      "2026-10-28": 0
     }
   },
   {
