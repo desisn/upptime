@@ -130,7 +130,7 @@
     "timeDay": 1064,
     "timeWeek": 1032,
     "timeMonth": 8594,
-    "timeYear": 5942,
+    "timeYear": 5931,
     "dailyMinutesDown": {
       "2025-12-11": 117,
       "2025-12-24": 27,
@@ -221,7 +221,7 @@
     "timeDay": 1863,
     "timeWeek": 1864,
     "timeMonth": 1741,
-    "timeYear": 1982,
+    "timeYear": 1984,
     "dailyMinutesDown": {
       "2026-01-18": 72,
       "2026-01-19": 69,
@@ -262,9 +262,9 @@
     "url": "https://hannovers-steuerberater.de",
     "icon": "https://icons.duckduckgo.com/ip3/hannovers-steuerberater.de.ico",
     "slug": "hannovers-steuerberater-de",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.49%",
     "uptimeMonth": "97.95%",
     "uptimeYear": "98.95%",
@@ -334,7 +334,8 @@
       "2026-10-18": 251,
       "2026-10-28": 333,
       "2026-11-04": 312,
-      "2026-11-21": 253
+      "2026-11-21": 253,
+      "2026-11-25": 1
     }
   },
   {
@@ -352,7 +353,7 @@
     "timeDay": 3469,
     "timeWeek": 3092,
     "timeMonth": 3098,
-    "timeYear": 2999,
+    "timeYear": 2998,
     "dailyMinutesDown": {
       "2026-03-10": 23
     }
